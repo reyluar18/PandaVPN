@@ -1,12 +1,10 @@
-[
-  {
-    "AppName": "Panda VPN",
-    "AppVersion": "7.0",
-    "Author": "Rey Luar Jr."
-  },
-  {
-    "AppName": "Panda VPN Pro",
-    "AppVersion": "8.0",
-    "Author": "Rey Luar Jr."
-  }
-]
+ {
+ "latestVersion": "6.2",
+  "latestVersionCode": 12,
+  "url": "https://www.facebook.com",
+  "releaseNotes": [
+    "- New Server",
+    "- New Ui",
+    "- Bug fixes"
+  ]
+}
